@@ -1,0 +1,18 @@
+li {
+  list-style: none;
+}
+
+.cross-and-task {
+  padding-left: 20px;
+  margin: 5px;
+  display: flex;
+}
+
+.task-name {
+  padding-left: 20px;
+  cursor: pointer;
+}
+
+.clicked {
+  text-decoration: line-through;
+}
